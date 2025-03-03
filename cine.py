@@ -1,5 +1,5 @@
 # Práctica 1 - Cine
-
+# Prueba de Workflow
 
 class Pelicula:
     def __init__(self, nombre, asientos_disponibles, precio):
